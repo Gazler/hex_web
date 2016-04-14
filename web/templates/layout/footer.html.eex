@@ -7,6 +7,7 @@
             <ul>
               <li><small class="text-muted">Hex.pm</small></li>
               <li><small class="text-muted"><a href="https://github.com/hexpm">GitHub</a></small></li>
+              <li><small class="text-muted"><a href="<%= policy_path(HexWeb.Endpoint, :index) %>">Policies</a></small></li>
               <li><small class="text-muted"><a href="mailto:support@hex.pm">Support</a></small></li>
             </ul>
           </div>
